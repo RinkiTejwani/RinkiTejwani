@@ -1,9 +1,10 @@
-                                              👋 Hi, I’m RinkiTejwani
+                                                 👋 Hi , I'm RinkiTejwani
 - 🌍 I'm based in Mumbai
 - 👀 I’m interested in Front-end Development 
 - 🌱 I’m currently learning Back-end Development 
 - 💞️ I’m looking to collaborate on Web-Development Projects
 - 📫 You can reach me out at r.d.tejwani28@gmail.com
+
 
 
 <!---
