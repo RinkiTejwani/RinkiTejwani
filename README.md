@@ -10,6 +10,8 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RinkiTejwani&bg_color=000000&color=e3f033&line=b8288b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=RinkiTejwani)
 <!---
 RinkiTejwani/RinkiTejwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
