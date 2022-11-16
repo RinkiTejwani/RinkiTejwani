@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on Web-Development Projects
 - 📫 You can reach me out at r.d.tejwani28@gmail.com
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RinkiTejwani)](https://git.io/streak-stats)
 
 
 <!---
