@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on Web-Development Projects
 - 📫 You can reach me out at r.d.tejwani28@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RinkiTejwani)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=RinkiTejwani&theme=radical&hide_border=true&border_radius=5&fire=DDD719&currStreakNum=DDDDDD&sideNums=DDDDD9)](https://git.io/streak-stats)
 
 <!---
 RinkiTejwani/RinkiTejwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
