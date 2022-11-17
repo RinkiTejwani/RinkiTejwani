@@ -11,7 +11,11 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RinkiTejwani&bg_color=000000&color=e3f033&line=b8288b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=RinkiTejwani)
+
+
+![RinkiTejwani's Stats](https://github-readme-stats.vercel.app/api?username=RinkiTejwani&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+![RinkiTejwani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RinkiTejwani&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 
 
