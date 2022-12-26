@@ -7,7 +7,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RinkiTejwani&theme=radical&hide_border=true&border_radius=5&fire=DDD719&currStreakNum=DDDDDD&sideNums=DDDDD9)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RinkiTejwani&bg_color=070719&color=4becd9&line=d30387&point=f7f12b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![RinkiTejwani's Stats](https://github-readme-stats.vercel.app/api?username=RinkiTejwani&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
