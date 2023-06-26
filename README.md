@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🌍 I'm based in Mumbai<br>👀 I’m interested in Front-end Development<br>🌱 I’m currently learning Back-end Development<br>💞️ I’m looking to collaborate on Web-Development Projects<br>📫 You can reach me out at r.d.tejwani28@gmail.com<br>
+🌍 I'm based in Mumbai<br>👀 I’m interested in Front-end Development<br>🌱 I’m currently learning Machine Learning and Flutter <br>💞️ I’m looking to collaborate on Web-Development Projects<br>📫 You can reach me out at r.d.tejwani28@gmail.com<br>
 
 
 ## 🌐 Socials:
