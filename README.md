@@ -1,4 +1,4 @@
-                                                 👋 Hi , I'm RinkiTejwani
+                                         
                                                  
 
 [![](https://visitcount.itsvg.in/api?id=RinkiTejwani&label=Profile%20Views&color=2&icon=7&pretty=true)](https://visitcount.itsvg.in)
@@ -6,7 +6,22 @@
 
 
 # 💫 About Me:
-🌍 I'm based in Mumbai<br>👀 I’m interested in Front-end Development<br>🌱 I’m currently learning Machine Learning and Flutter <br>💞️ I’m looking to collaborate on Web-Development Projects<br>📫 You can reach me out at r.d.tejwani28@gmail.com<br>
+
+
+## 👋 Hi, I'm Rinki Tejwani
+**🌍** I'm based in Mumbai
+
+**🌟** I specialize in web development, with expertise in HTML, CSS, JavaScript, and React.
+
+**🎓** Currently pursuing my studies in computer science.
+
+**🌱** I’m currently learning Machine Learning and Flutter 
+
+**🌱** When I'm not coding, you can find me exploring new frameworks.
+
+**💡** I'm open to exciting projects and collaborations, so feel free to reach out at r.d.tejwani28@gmail.com
+
+Let's connect and create amazing things together!
 
 
 ## 🌐 Socials:
