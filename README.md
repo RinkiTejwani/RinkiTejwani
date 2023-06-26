@@ -19,7 +19,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=RinkiTejwani&icon=7&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=RinkiTejwani&label=Profile%20Views&color=2&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+
