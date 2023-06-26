@@ -1,4 +1,10 @@
                                                  👋 Hi , I'm RinkiTejwani
+                                                 
+
+[![](https://visitcount.itsvg.in/api?id=RinkiTejwani&label=Profile%20Views&color=2&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+
+
 # 💫 About Me:
 🌍 I'm based in Mumbai<br>👀 I’m interested in Front-end Development<br>🌱 I’m currently learning Back-end Development<br>💞️ I’m looking to collaborate on Web-Development Projects<br>📫 You can reach me out at r.d.tejwani28@gmail.com<br>
 
@@ -21,6 +27,6 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=RinkiTejwani&label=Profile%20Views&color=2&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
 
 
