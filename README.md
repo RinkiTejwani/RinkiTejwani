@@ -1,7 +1,7 @@
                                          
                                                  
 
-[![](https://visitcount.itsvg.in/api?id=RinkiTejwani&label=Profile%20Views&color=2&icon=7&pretty=true)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=RinkiTejwani&label=Profile%20Views&color=2&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 
 
