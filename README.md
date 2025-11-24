@@ -11,9 +11,9 @@
 ## 👋 Hi, I'm Rinki Tejwani
 **🌍** I'm based in Mumbai
 
-**🌟** I specialize in web development, with expertise in HTML, CSS, JavaScript, and React.
+**🌟** I specialize in web development, with expertise in HTML, CSS, Java , Python
 
-**🎓** Currently pursuing my studies in computer science.
+**🎓** Currently teaching coding and robotics .
 
 **🌱** I’m currently learning Machine Learning and Flutter 
 
